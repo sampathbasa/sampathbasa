@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hello, I'm [Sampath Kumar Basa]
+👋 Hello, I'm Sampath Kumar Basa
 
 🚀 Experienced MLOps Engineer | DevOps Specialist
 
