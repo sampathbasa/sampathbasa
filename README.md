@@ -104,6 +104,7 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
  
 ## Monitoring Tools
 
+[![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloudwatch/)
 [![Autosys](https://img.shields.io/badge/Autosys-%23FF6600.svg?logo=Autosys&logoColor=white)](https://docs.bmc.com/docs/AutoSys)
 [![Dynatrace](https://img.shields.io/badge/Dynatrace-%23000000.svg?logo=Dynatrace&logoColor=white)](https://www.dynatrace.com/)
 [![Splunk](https://img.shields.io/badge/Splunk-%230078D4.svg?logo=Splunk&logoColor=white)](https://www.splunk.com/)
