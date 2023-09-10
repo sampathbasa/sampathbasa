@@ -37,7 +37,7 @@ Let's collaborate, learn, and innovate together! Feel free to reach out for disc
 ## 🌐 You can connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samtechno/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sampathkumarbasa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sampathbasa)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sampathbasa)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:sampathkumarbasa@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
