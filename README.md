@@ -143,7 +143,7 @@ We organize free tech conferences, technical trainings, and discussions on vario
 
 Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm an active Co-Organizer in these vibrant meetup communities:
 
-- :rocket: Co-Organizer of **Data AI ML Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - where cloud, DevOps, and SRE enthusiasts converge for insightful discussions and learning experiences.
+- :rocket: Co-Organizer of **Data AI ML Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - where cloud, Datascientist, Data Engineer, MLOps Engineer enthusiasts converge for insightful discussions and learning experiences.
 
 <div align="center">
 
