@@ -90,7 +90,6 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 ## Cloud Technologies
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?logo=Oracle&logoColor=white)](https://cloud.google.com/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
 
 ## Operating System
