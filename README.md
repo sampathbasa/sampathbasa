@@ -73,7 +73,6 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/ec2/)
 [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/iam/)
 [![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/vpc/)
-[![AWS SAGEMAKER](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/sagemaker/)
 
 ## DevOps Tools
 
