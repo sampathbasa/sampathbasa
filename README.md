@@ -46,12 +46,6 @@ Let's collaborate, learn, and innovate together! Feel free to reach out for disc
 
 <div align="center">
 
-## 👁️ Profile Views📅
-
-[![Profile Views](https://komarev.com/ghpvc/?username=iamrajaram1&color=blue)](https://github.com/sampathbasa)
-[![GitHub stars](https://img.shields.io/github/stars/iamrajaram1/iamrajaram1?style=social)](https://github.com/sampathbasa/sampathbasa)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iamrajaram1/iamrajaram1)](https://github.com/sampathbasa/sampathbasa/commits/master)
-
 </div>
 
 
