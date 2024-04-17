@@ -4,11 +4,11 @@
 
 🚀 Experienced MLOps Engineer | DevOps Specialist
 
-I'm a seasoned MLOps engineer with a strong background in DevOps, boasting a combined experience of 5 years in the field. Over the course of my career, I've honed my skills to become a trusted expert in implementing end-to-end MLOps pipelines, all while ensuring the deployment of efficient and scalable Machine Learning (ML) solutions.
+I'm a seasoned MLOps engineer with a strong background in DevOps, boasting a combined experience of 6 years in the field. Over the course of my career, I've honed my skills to become a trusted expert in implementing end-to-end MLOps pipelines, all while ensuring the deployment of efficient and scalable Machine Learning (ML) solutions.
 
 🛠️ What I Bring to the Table:
 
-MLOps Mastery: With 2 years dedicated to MLOps, I've become adept at bridging the gap between data science and production. My expertise lies in creating seamless, automated pipelines that turn ML models into real-world, scalable solutions.
+MLOps Mastery: With 2+ years dedicated to MLOps, I've become adept at bridging the gap between data science and production. My expertise lies in creating seamless, automated pipelines that turn ML models into real-world, scalable solutions.
 
 DevOps Excellence: My 3-year DevOps journey has equipped me with the tools and strategies needed to streamline development, automate deployments, and enhance collaboration across cross-functional teams.
 
