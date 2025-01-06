@@ -131,7 +131,6 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 
 **Community Leader (MLOps Specalist)**
 - 🚀 Role: Community MLOps Specalist
-- 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
 - 🌟 Proudly part of the CloudnLoud Tech Community Core team.
 
 The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
