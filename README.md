@@ -138,14 +138,6 @@ The ☁️ CloudnLoud Tech Community is a non-profit open source tech community,
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
 
-# :globe_with_meridians: Join Me in the Meetup Sphere:
-
-Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm an active Co-Organizer in these vibrant meetup communities:
-
-- :rocket: Co-Organizer of **Data AI ML Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/data-ai-ml-europe-uk/) - where cloud, Datascientist, Data Engineer, MLOps Engineer enthusiasts converge for insightful discussions and learning experiences.
-
-<div align="center">
-
 ## AWS Cloud Free 2 months Internship - Week 1
 
 | AWS Topic | Video Link |
